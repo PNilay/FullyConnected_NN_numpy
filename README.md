@@ -1,5 +1,6 @@
 # MNIST Handwritten Digits Classification with Fully Connected Neural Network
-* This project implements a fully connected neural network using only NumPy to correctly classify handwritten digits from the MNIST dataset. The goal is to demonstrate a basic neural network implementation and showcase its ability to accurately recognize handwritten numbers.
+
+This project implements a fully connected neural network using only NumPy to correctly classify handwritten digits from the MNIST dataset. The goal is to demonstrate a basic neural network implementation and showcase its ability to accurately recognize handwritten numbers.
 
 ## Overview
 The MNIST dataset is a popular dataset in the field of machine learning and computer vision. It consists of a large number of grayscale images of handwritten digits (0 through 9) and their corresponding labels. This project aims to build and train a neural network to predict the correct digit from an input image.
